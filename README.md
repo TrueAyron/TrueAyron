@@ -1,7 +1,9 @@
 ![header github](https://github.com/TrueAyron/bio/blob/main/images/header.png)  
 
 
-### Hi :call_me_hand:
+### Hi there 👋
 
 ---
-I'm a twenty two years full-stack developer 🧑‍💻, as a student with a passion for learning and development in the tech field, I have gained experience in both JavaScript and Python ✨. My goal is to continuously improve my skills and knowledge, and to apply them to real-world projects 🎯. I am eager to take on new challenges and to collaborate with others in the tech community 😎.
+I'm a 24-year-old Junior Full Stack Developer 🧑‍💻 with hands-on experience in building real-world applications. Over the past few years, I've been working mainly with JavaScript and Python ✨, developing both frontend and backend solutions.
+
+I am passionate about creating impactful projects and constantly improving my skills to deliver clean, efficient, and scalable code. I love collaborating with other developers, learning new technologies, and solving challenging problems in the tech world 🚀.
