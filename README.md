@@ -1,4 +1,4 @@
-![header github](https://github.com/TrueAyron/bio/blob/main/images/header.png)  
+
 
 
 ### Hi there 👋
